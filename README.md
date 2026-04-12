@@ -4,6 +4,21 @@ This repository is the central document hub for `Svenskmat`.
 
 It is intended to hold the working documentation for company direction, product planning, engineering execution, architecture, operations, security, and delivery.
 
+## Table Of Contents
+
+- [Documentation Standards](B:\.dev\Svenskmat\Documentation\00-governance\documentation-standards.md)
+- [Vision And Goals](B:\.dev\Svenskmat\Documentation\01-strategy\vision-and-goals.md)
+- [Product Roadmap](B:\.dev\Svenskmat\Documentation\02-product\product-roadmap.md)
+- [Engineering Plan](B:\.dev\Svenskmat\Documentation\03-engineering\engineering-plan.md)
+- [System Landscape](B:\.dev\Svenskmat\Documentation\04-architecture\system-landscape.md)
+- [Microsoft 365 And DNS Migration Plan](B:\.dev\Svenskmat\Documentation\05-operations\ms365-and-dns-migration-plan.md)
+- [Microsoft 365 Business Premium Rollout Plan](B:\.dev\Svenskmat\Documentation\05-operations\ms365-business-premium-rollout-plan.md)
+- [Runbooks Index](B:\.dev\Svenskmat\Documentation\05-operations\runbooks-index.md)
+- [Security Program](B:\.dev\Svenskmat\Documentation\06-security\security-program.md)
+- [Quarterly Planning](B:\.dev\Svenskmat\Documentation\07-delivery\quarterly-planning.md)
+- [Decision Record Template](B:\.dev\Svenskmat\Documentation\_templates\decision-record.md)
+- [Runbook Template](B:\.dev\Svenskmat\Documentation\_templates\runbook.md)
+
 ## Documentation Contents
 
 ### Governance
