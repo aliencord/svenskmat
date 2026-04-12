@@ -4,6 +4,16 @@ This repository is the central document hub for `Svenskmat`.
 
 It is intended to hold the working documentation for company direction, product planning, engineering execution, architecture, operations, security, and delivery.
 
+## Table Of Contents
+
+- [Purpose](#purpose)
+- [Structure](#structure)
+- [Recommended Operating Model](#recommended-operating-model)
+- [Suggested First Documents To Complete](#suggested-first-documents-to-complete)
+- [Ownership](#ownership)
+- [Change Discipline](#change-discipline)
+- [Core Planning Docs](#core-planning-docs)
+
 ## Purpose
 
 This hub should answer the following questions quickly:
@@ -56,3 +66,9 @@ Suggested default owners:
 ## Change Discipline
 
 For meaningful technical or product decisions, create an ADR from the template in [`_templates/decision-record.md`](B:\.dev\Svenskmat\Documentation\_templates\decision-record.md).
+
+## Core Planning Docs
+
+- [Microsoft 365 And DNS Migration Plan](B:\.dev\Svenskmat\Documentation\05-operations\ms365-and-dns-migration-plan.md)
+- [Microsoft 365 Business Premium Rollout Plan](B:\.dev\Svenskmat\Documentation\05-operations\ms365-business-premium-rollout-plan.md)
+- [System Landscape](B:\.dev\Svenskmat\Documentation\04-architecture\system-landscape.md)
